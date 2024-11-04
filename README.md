@@ -13,10 +13,6 @@ A modern, secure password generator built with React and Tailwind CSS that helps
 - 🎨 Modern, responsive UI
 - 🔄 Real-time password generation
 
-## 🚀 Live Demo
-
-[View Live Demo](#) <!-- Add your deployment URL here -->
-
 ## 🛠️ Technologies Used
 
 - React 18
