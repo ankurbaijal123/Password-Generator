@@ -66,11 +66,11 @@ interface PasswordState {
 4. Push to the branch (\`git push origin feature/AmazingFeature\`)
 5. Open a Pull Request
 
-## 📝 License
+## 🙏 Screenshots
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![image](https://github.com/user-attachments/assets/67fc229e-3b23-4f5a-a6bb-de1b8f77bd4f)
+![image](https://github.com/user-attachments/assets/3cfd01ba-85ff-4e6d-b4f6-1d2cd9b15198)
+![image](https://github.com/user-attachments/assets/9786877a-0a2b-40ef-8cd0-6aa27ed8730d)
 
-## 🙏 Acknowledgments
 
-- React Team for the amazing framework
-- Tailwind CSS for the utility-first CSS framework
+
